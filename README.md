@@ -1,7 +1,4 @@
-<p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
-</p>
-# Chat@Group
+# Chat-Group
 A Multi-client chat server application which handles numerous clients chatting with each other using "Netcat" on different computers.
 
 # Introduction
