@@ -1,3 +1,4 @@
+![l_20180814_181955](https://user-images.githubusercontent.com/42377695/44093214-7fb28d20-9ff0-11e8-865d-93f70ddfb860.png)
 # Chat@Group
 A Multi-client chat server application which handles numerous clients chatting with each other using "Netcat" on different computers.
 # Introduction
